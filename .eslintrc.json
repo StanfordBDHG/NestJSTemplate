@@ -16,7 +16,8 @@
     "**/dist/*",
     "/docs/**",
     "/out/**",
-    "**/jest.config.js",
+    "/coverage/**",
+    "**/vite.config.mts",
     "**/next.config.js",
     "**/postcss.config.js",
     "**/tailwind.config.js"
